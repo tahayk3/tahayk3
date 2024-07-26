@@ -4,8 +4,6 @@
 <img src="https://i.postimg.cc/wvXwVDKx/Contacto.png">
 
 
-
-![Twitch Status](https://img.shields.io/twitch/status/tahayk4)
 [![GitHub followers](https://img.shields.io/github/followers/tahayk3?style=social)](https://github.com/tahayk3)
 
 ## Sobre mi
