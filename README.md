@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Cristian Tahay</a> 👋</h1>
 </div>
-<img src="https://i.postimg.cc/wvXwVDKx/Contacto.png">
+<img src="https://i.postimg.cc/Zn6fKgFL/Contacto-page-0001.jpg">
 
 [![Twitch Status](https://img.shields.io/twitch/status/tahayk4)](https://www.twitch.tv/tahayk4)
 [![GitHub followers](https://img.shields.io/github/followers/tahayk3?style=social)](https://github.com/tahayk3)
