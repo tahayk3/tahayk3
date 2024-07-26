@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Cristian Tahay</a> 👋</h1>
 </div>
-<img src="https://www.canva.com/design/DAGLu-woe_Y/BS8qRKdJFf-ika6ws0-lKA/view?utm_content=DAGLu-woe_Y&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF1IwK6-SxM83UpFVY6WtUZxXx-phss_gAUfdKbkTfau6VWVkt">
 
 
 [![Twitch Status](https://www.twitch.tv/tahayk4)](https://www.twitch.tv/tahayk4)
