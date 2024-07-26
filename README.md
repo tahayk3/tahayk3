@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://aristi.dev">Cristian Tahay</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="[https://i.imgur.com/weNbhGZ.png](https://www.canva.com/design/DAGLu-woe_Y/BS8qRKdJFf-ika6ws0-lKA/view?utm_content=DAGLu-woe_Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
 
 
 [![Twitch Status](https://www.twitch.tv/tahayk4)](https://www.twitch.tv/tahayk4)
@@ -22,7 +22,7 @@
 
 <p align="center">
 <a href="https://github.com/tahayk3">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ArisGuimera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ArisGuimera&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tahayk3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tahayk3&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
