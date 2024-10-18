@@ -14,9 +14,8 @@
 - 🧑‍🏫 Pasantias de 6 meses en  [CianCoders](https://ciancoders.com/es/)
 <br>
 - 🌍 página web para familab https://familabxela.netlify.app
-
-- 🌎 página para muebles502xela
-https://muebles502xela.netlify.app/
+<br>
+- 🌎 página para muebles502xela https://muebles502xela.netlify.app/
 
 
 <br>
