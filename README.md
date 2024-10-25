@@ -21,7 +21,7 @@
 
 
 ## Aprendiendo ingles
-<img src="https://duolingo-stats-card.vercel.app/api?username={tahayk3}&theme={beach}" alt="Duolingo Stats"/>
+<img src="https://duolingo-stats-card.vercel.app/api?username=tahayk3&theme=beach" alt="Duolingo Stats"/>
 
 <br>
 
