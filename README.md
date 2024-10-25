@@ -12,11 +12,16 @@
 - 📲 Ingeniero en sistemas
 - 📗 Graduado en [Universidad Mesoamericana](https://www.mesoamericana.edu.gt/)
 - 🧑‍🏫 Pasantias de 6 meses en  [CianCoders](https://ciancoders.com/es/)
+
+## Proyectos
 <br>
 - 🌍 página web para familab https://familabxela.netlify.app
 <br>
 - 🌎 página para muebles502xela https://muebles502xela.netlify.app/
 
+
+## Aprendiendo ingles
+<img src="https://duolingo-stats-card.vercel.app/api?username={tahayk3}&theme={beach}" alt="Duolingo Stats"/>
 
 <br>
 
