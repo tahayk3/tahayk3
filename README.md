@@ -63,8 +63,7 @@ const kavorix = {
         bots: ["Trading Bot", "Discord Bot", "Telegram Bot"],
         devOps: ["Docker", "Nginx", "Ngrok"],
         GUI: {
-            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
-            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
+            Mobile: ["React native"]
         }
     },
     UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
