@@ -46,6 +46,30 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+const kavorix = {
+    OS: ["Arch Linux"],
+    languages: {
+        highLevel: ["Typescript", "Rust", "Solidity", "Python"],
+        averageLevel: ["Sql", "Java", "Go"],
+        baseLevel: ["Html", "Css", "Javascript", "Bash", "C++"]
+    },
+    programming: {
+        frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
+        backend: ["NodeJS","Django", "FastApi", "Flask"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL"],
+        blockchain: ["Dex", "Dapps", "NFT Marketplace", "Wallet", "Bridges", "Telegram mini app", "Launchpads"],
+        ecosystem: ["Ethereum", "Solana", "Polkadot", "Cosmos", "Polygon"],
+        bots: ["Trading Bot", "Discord Bot", "Telegram Bot"],
+        devOps: ["Docker", "Nginx", "Ngrok"],
+        GUI: {
+            Desktop: ["PyQT6", "Pyside6", "Tauri", "JavaFX"],
+            Mobile: ["Ionic + Capacitor", "AndroidJS", "Tauri"]
+        }
+    },
+    UI_UX: ["Photoshop", "Illustrator", "XD", "Figma"],
+};
+
 ## 🔧 Technologies & Tools  
 ### Languages  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
