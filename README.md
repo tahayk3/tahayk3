@@ -47,25 +47,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-const kavorix = {
-    OS: ["Arch Linux"],
-    languages: {
-        highLevel: ["Python"],
-        averageLevel: ["Sql", "Java", "Go", "Typescript", "C#"],
-        baseLevel: ["Html", "Css", "Javascript", "Bash", "C++"]
-    },
-    programming: {
-        frontend: ["HTML", "CSS/SCSS", "ReactJS", "NextJS", "VueJS", "React Native", "Flutter"],
-        backend: ["NodeJS","Django", "Express"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "MySQL", "SQLServer", "Firebase"],
-        devOps: ["Docker", "Nginx", "Ngrok"],
-        GUI: {
-            Mobile: ["React native"]
-        }
-    },
-    UI_UX: ["Blender", "Figma"],
-};
-
 ## 🔧 Technologies & Tools  
 ### Languages  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
