@@ -8,7 +8,8 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Github Star ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahayk3&show_icons=true&theme=default)
+ ⭐ 
 - 📲 Ingeniero en sistemas
 - 📗 Graduado en [Universidad Mesoamericana](https://www.mesoamericana.edu.gt/)
 - 🧑‍🏫 Pasantias de 6 meses en  [CianCoders](https://ciancoders.com/es/)
